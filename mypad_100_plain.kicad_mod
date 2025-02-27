@@ -1,0 +1,193 @@
+(footprint "mypad_100_plain"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "28-lead though-hole mounted DIP package, row spacing 16.51 mm (650 mils), SMDSocket, LongPads")
+	(tags "THT DIP DIL PDIP 2.54mm 16.51mm 650mil SMDSocket LongPads")
+	(property "Reference" "REF**"
+		(at 10.73 -16.825001 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "e892dfff-eeb9-48c3-830c-f17d2cc3735f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "DIP-28_W16.51mm_SMDSocket_LongPads"
+		(at 0 18.84 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "3308449d-c642-4d25-a66d-77604c18d6fd")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" "Package_DIP:DIP-28_W16.51mm_SMDSocket_LongPads"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ce2e928c-a50e-4692-8972-aa5930942c9b")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 8.255 -0.000001 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "6667a975-467c-485b-817f-be31e29f668b")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 8.255 -0.000001 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ff7d9350-fccd-4c76-89ee-d9cb4d9103bc")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_rect
+		(start -0.762 -0.762)
+		(end 0.762 0.762)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill solid)
+		(layer "User.4")
+		(uuid "6c28de51-ac7b-4f6a-9da1-dba4cc9d2fc8")
+	)
+	(fp_rect
+		(start -0.724002 6.896002)
+		(end 0.799998 8.420002)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill solid)
+		(layer "User.4")
+		(uuid "9214f41b-a872-4cde-ad4b-43c9ccaec7b7")
+	)
+	(fp_rect
+		(start -0.724001 11.976)
+		(end 0.799999 13.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill solid)
+		(layer "User.4")
+		(uuid "7a51c6a2-6261-4be5-86f7-9edb2e70a45f")
+	)
+	(fp_rect
+		(start -0.724001 14.478001)
+		(end 0.799999 16.002001)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill solid)
+		(layer "User.4")
+		(uuid "d198cd56-c452-4715-a177-6ad11ba0194b")
+	)
+	(fp_rect
+		(start -0.724 22.097999)
+		(end 0.8 23.621999)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill solid)
+		(layer "User.4")
+		(uuid "06fea3d2-eeba-452b-9dde-531c8a4c5335")
+	)
+	(fp_rect
+		(start -0.723999 1.815999)
+		(end 0.800001 3.339999)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill solid)
+		(layer "User.4")
+		(uuid "2923c481-a321-4658-ab89-5bb6d537b9bd")
+	)
+	(fp_rect
+		(start -0.723999 4.356)
+		(end 0.800001 5.88)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill solid)
+		(layer "User.4")
+		(uuid "83d72d99-b1b0-4b2f-ae60-179f87b0d2a9")
+	)
+	(fp_rect
+		(start -0.723999 9.436)
+		(end 0.800001 10.96)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill solid)
+		(layer "User.4")
+		(uuid "f6470a9f-b7b6-4883-bd4e-06365baea70a")
+	)
+	(fp_rect
+		(start -0.723999 17.056)
+		(end 0.800001 18.58)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill solid)
+		(layer "User.4")
+		(uuid "b3ddf3ea-788d-449a-b2ad-6d718e57f631")
+	)
+	(fp_rect
+		(start -0.723999 19.557999)
+		(end 0.800001 21.081999)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill solid)
+		(layer "User.4")
+		(uuid "edef72ba-257d-4ced-85b3-1ec3e90fc92e")
+	)
+	(model "${KICAD8_3DMODEL_DIR}/Package_DIP.3dshapes/DIP-28_W16.51mm_SMDSocket.wrl"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

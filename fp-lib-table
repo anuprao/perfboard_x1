@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "perfboard_x1")(type "KiCad")(uri "/mnt/workspace/projects_github/perfboard_x1/perfboard_x1")(options "")(descr ""))
+)
